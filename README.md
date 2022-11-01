@@ -7,17 +7,17 @@ libray ini dibuat untuk mempermudah pengguna memberi pewarnaan,dimana pewarnaan 
 cara penggunaannya adalah dengan menambahkan class ="colorWarna"
 
 contoh
-  <div class="colorMerah">red</div>
-    <div class="colorJingga">jingga</div>
-    <div class="colorKuning">kuning</div>
-    <div class="colorHijau">Hijau</div>
-    <div class="colorBiru">biru</div>
-    <div class="colorNila">nila</div>
-    <div class="colorUngu">ungu</div>
-    <div class="colorViolet">violet</div>
-    <div class="colorPink">pink</div>
-    <div class="colorMagenta">magenta</div>
-    <div class="colorBrown">brown</div>
-    <div class="colorCoklat">coklat</div>
-    <div class="colorAbu">abu-abu</div>
-    <div class="colorGrey">grey</div>
+  class="colorMerah"red
+    class="colorJingga"jingga</div>
+    class="colorKuning"kuning</div>
+    class="colorHijau"Hijau</div>
+    class="colorBiru"biru</div>
+    class="colorNila"nila</div>
+    class="colorUngu"ungu</div>
+    class="colorViolet"violet</div>
+    class="colorPink"pink</div>
+    class="colorMagenta"magenta</div>
+    class="colorBrown"brown</div>
+    class="colorCoklat"coklat</div>
+    class="colorAbu"abu-abu</div>
+    class="colorGrey"grey</div>
