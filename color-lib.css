@@ -1,0 +1,417 @@
+/* start red color */
+.colorMerah {
+  background-color: red !important;
+  color: white !important;
+}
+
+.colorMerahGelap {
+  background-color: darkred !important;
+  color: white !important;
+}
+
+.colorMerahApi {
+  background-color: firebrick !important;
+  color: white !important;
+}
+.colorPinkGelap {
+  background-color: deeppink !important;
+  color: white !important;
+}
+
+.colorHotPink {
+  background-color: hotpink !important;
+  color: white !important;
+}
+
+.colorPinkMuda {
+  background-color: lightpink !important;
+  color: white !important;
+}
+
+.colorPink {
+  background-color: pink !important;
+  color: white !important;
+}
+
+.colorCrimson {
+  background-color: crimson !important;
+  color: white !important;
+}
+
+.colorMerahSalmon {
+  background-color: darksalmon !important;
+  color: white !important;
+}
+
+.colorMerahTipis {
+  background-color: #ffb2b2 !important;
+  color: white !important;
+}
+
+/* end red color */
+
+/* start orange color */
+.colorJingga {
+  background-color: orange !important;
+  color: white !important;
+}
+
+.colorJinggaGelap {
+  background-color: darkorange !important;
+  color: white !important;
+}
+.colorJinggaMerah {
+  background-color: orangered !important;
+  color: white !important;
+}
+.colorjinggaCoral {
+  background-color: coral !important;
+  color: white !important;
+}
+
+/* end orange color */
+
+.colorKuning {
+  background-color: yellow !important;
+  color: white !important;
+}
+
+.colorKuningHijau {
+  background-color: yellowgreen !important;
+  color: white !important;
+}
+
+.colorKuningEmasMuda {
+  background-color: lightgoldenrodyellow !important;
+  color: white !important;
+}
+
+.colorKuningGelap {
+  background-color: darkgoldenrod !important;
+  color: white !important;
+}
+
+.colorEmas {
+  background-color: gold !important;
+  color: white !important;
+}
+
+.colorKuningTipis {
+  background-color: #ffffb2 !important;
+  color: white !important;
+}
+
+.colorKuningTebal {
+  background-color: #4c4c00 !important;
+  color: white !important;
+}
+
+.colorKuningMuda {
+  background-color: lightyellow !important;
+  color: white !important;
+}
+
+.colorKuningBisque {
+  background-color: bisque !important;
+  color: white !important;
+}
+
+.colorKuningEmasGelap {
+  background-color: darkkhaki !important;
+  color: white !important;
+}
+
+.colorKuningHijau {
+  background-color: yellowgreen !important;
+  color: white !important;
+}
+
+/* end yellow color */
+
+/* start green color */
+.colorHijau {
+  background-color: green !important;
+  color: white !important;
+}
+
+.colorHijauMuda {
+  background-color: lightgreen !important;
+  color: white !important;
+}
+
+.colorHijauLaut {
+  background-color: lightseagreen !important;
+  color: white !important;
+}
+
+.colorLime {
+  background-color: lime !important;
+  color: white !important;
+}
+
+.colorHijauLime {
+  background-color: limegreen !important;
+  color: white !important;
+}
+
+.colorHijauGelap {
+  background-color: darkgreen !important;
+  color: white !important;
+}
+
+.colorCyan {
+  background-color: cyan !important;
+  color: white !important;
+}
+
+.colorHijauTipis {
+  background-color: #99cc99 !important;
+  color: white !important;
+}
+
+.colorHijauTebal {
+  background-color: #004c00 !important;
+  color: white !important;
+}
+
+.colorHijauTengah {
+  background-color: #008040 !important;
+  color: white !important;
+}
+
+.colorHijauCyanGelap {
+  background-color: darkcyan !important;
+  color: white !important;
+}
+
+.colorHijauHutan {
+  background-color: forestgreen !important;
+  color: white !important;
+}
+
+.colorHijauCyanMuda {
+  background-color: lightcyan !important;
+  color: white !important;
+}
+
+.colorHijaRumput {
+  background-color: lawngreen !important;
+  color: white !important;
+}
+
+.colorHijauKuning {
+  background-color: greenyellow !important;
+  color: white !important;
+}
+
+.colorHijauLautGelap {
+  background-color: mediumseagreen !important;
+  color: white !important;
+}
+
+/* end color green */
+
+/* start blue  */
+.colorBiru {
+  background-color: blue !important;
+  color: white !important;
+}
+
+.colorBiruMuda {
+  background-color: lightblue !important;
+  color: white !important;
+}
+.colorBiruMudaLangit {
+  background-color: lightskyblue !important;
+  color: white !important;
+}
+.colorBiruGelap {
+  background-color: darkblue !important;
+  color: white !important;
+}
+
+.colorBiruTipis {
+  background-color: #b2b2ff !important;
+  color: white !important;
+}
+
+.colorAqua {
+  background-color: aqua !important;
+  color: white !important;
+}
+.colorAquaMarine {
+  background-color: aquamarine !important;
+  color: white !important;
+}
+.colorBiruTebal {
+  background-color: #00007f !important  ;
+  color: white !important;
+}
+
+.colorBiruBunga {
+  background-color: cornflowerblue !important;
+  color: white !important;
+}
+.colorBiruGelapLangit {
+  background-color: deepskyblue !important;
+  color: white !important;
+}
+.colorBiruNavy {
+  background-color: navy !important;
+  color: white !important;
+}
+
+/* end color blue */
+
+/* start indigo */
+.colorNila {
+  background-color: indigo !important;
+  color: white !important;
+}
+
+.colorNilaMerah {
+  background-color: indianred !important;
+  color: white !important;
+}
+
+.colorNilaMagentaGelap {
+  background-color: darkmagenta !important;
+  color: white !important;
+}
+
+.coloNilaMuda {
+  background-color: darkorchid !important;
+  color: white !important;
+}
+.colorNilaFuchsia {
+  background-color: fuchsia !important;
+  color: white !important;
+}
+
+.colorNilaNilaMediumOrchid {
+  background-color: mediumorchid !important;
+  color: white !important;
+}
+.colorMagenta {
+  background-color: magenta !important;
+  color: white !important;
+}
+/*  end  color indigo */
+
+/* start purple */
+.colorUngu {
+  background-color: purple !important;
+  color: white !important;
+}
+.colorViolet {
+  background-color: violet !important;
+  color: white;
+}
+
+.colorVioletBiru {
+  background-color: blueviolet !important;
+  color: white !important;
+}
+
+.colorUnguMedium {
+  background-color: mediumpurple !important;
+  color: white !important;
+}
+.colorVioletGelap {
+  background-color: darkviolet !important;
+  color: white !important;
+}
+
+.colorVioletMerah {
+  background-color: mediumvioletred !important;
+  color: white !important;
+}
+.colorUnguRebecca {
+  background-color: rebeccapurple !important;
+  color: white !important;
+}
+
+/* end color purple */
+
+/* start brown */
+.colorBrown {
+  background-color: brown !important;
+  color: white !important;
+}
+.colorCoklatMuda {
+  background-color: sandybrown !important;
+  color: white !important;
+}
+.colorCoklat {
+  background-color: chocolate !important;
+  color: white !important;
+}
+.colorSalmon {
+  background-color: salmon !important;
+  color: white !important;
+}
+.colorCoklatPasir {
+  background-color: sandybrown !important;
+  color: white !important;
+}
+
+.colorCoklatSaddle {
+  background-color: saddlebrown !important;
+  color: white !important;
+}
+
+.colorCoklatCoral {
+  background-color: coral !important;
+  color: white !important;
+}
+
+.colorCoklatCoralMuda {
+  background-color: lightcoral !important;
+  color: white !important;
+}
+
+.colorCoklatSalmon {
+  background-color: salmon;
+  color: white !important;
+}
+/* end color brown */
+
+/* start gray */
+.colorAbu {
+  background-color: gray;
+  color: white !important;
+}
+.colorGandum {
+  background-color: wheat !important;
+  color: white !important;
+}
+
+.colorAbuMuda {
+  background-color: lightgray !important;
+  color: white !important;
+}
+.colorLavendar {
+  background-color: lavender !important;
+  color: white !important;
+}
+
+.colorGrey {
+  background-color: grey;
+  color: white !important;
+}
+
+.colorAbuGelap {
+  background-color: darkgray !important;
+  color: white !important;
+}
+
+.colorGreyMuda {
+  background-color: lightgrey !important;
+  color: white !important;
+}
+
+.colorGreyGelap {
+  background-color: darkgrey !important;
+  color: white !important;
+}
+/* end color gray */
